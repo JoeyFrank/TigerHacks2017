@@ -2,9 +2,6 @@
 
 ![Sewn](SewnAppIcon3x-1.png)
 
-
-This app was developed by Joseph Frank, Nathan Schlechte, and Ian Smith for the University of Missouri 2017 Hackathon, "Tiger Hacks". The API keys in this version have been removed for privacy sake, so in order to properly use the app you will need to get both a Google vision API key and a Guardian news API key, and place them in their appropriate locations within the project.
-
 An innovative news app that uses image and text recognition software to deliver relevant news stories directly to the client.
 By allowing the client to take a picture of anything, Sewn is an exceptionally easy and accessible way for the viewing of news. With Sewn, the world is your news feed.
 
